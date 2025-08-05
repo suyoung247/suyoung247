@@ -1,12 +1,15 @@
 ## 안녕하세요, 김수영입니다.
 
-저는 한 번 쓰고 잊히는 코드보다, 시간이 지나도 가치를 유지할 수 있는 구조를 만들고 싶습니다. <br />
-기능 구현에만 그치지 않고, 흐름과 구조를 고민하며, 누구에게나 익숙하고 편안한 경험을 설계하는 개발자가 되고자 합니다. <br />
-속도보다는 안정성, 순간보다 지속 가능성을 고려하는 개발을 지향합니다.
+저는 기능 구현을 넘어, 구조적이고 지속 가능한 흐름을 설계하는 개발자가 되고자 합니다.  
+한 번 쓰고 잊히는 코드보다, 시간이 지나도 가치를 유지할 수 있는 시스템을 추구합니다.  
+빠른 결과보다는 명확한 책임, 순간의 성과보다는 오래도록 작동하는 원리를 고민합니다.  
+누구에게나 익숙하고 신뢰받는 경험을 만들기 위해, 매 순간 고민하고 배웁니다.
 
-*I aim to build structures that retain their value over time, not code that’s written once and forgotten.* <br />
-*I strive to go beyond feature implementation, designing flows and systems that feel intuitive and comfortable to everyone.* <br />
-*I prioritize stability over speed, and sustainability over short-term results.*
+*Hi, I’m Suyoung Kim.  * <br />
+*I aspire to become a developer who designs structured, sustainable systems—beyond just building features.* <br />
+*Rather than writing code that’s forgotten after one use, I pursue value that endures over time. * <br />
+*I prioritize accountability over speed, and long-term clarity over short-term wins. * <br />
+*My focus is on creating experiences that feel intuitive, reliable, and built to last.* <br />
 
 ## Projects
 
