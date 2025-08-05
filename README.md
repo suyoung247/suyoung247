@@ -5,10 +5,10 @@
 빠른 결과보다는 명확한 책임, 순간의 성과보다는 오래도록 작동하는 원리를 고민합니다.  
 누구에게나 익숙하고 신뢰받는 경험을 만들기 위해, 매 순간 고민하고 배웁니다.
 
-*Hi, I’m Suyoung Kim.  * <br />
+*Hi, I’m Suyoung Kim.* <br />
 *I aspire to become a developer who designs structured, sustainable systems—beyond just building features.* <br />
-*Rather than writing code that’s forgotten after one use, I pursue value that endures over time. * <br />
-*I prioritize accountability over speed, and long-term clarity over short-term wins. * <br />
+*Rather than writing code that’s forgotten after one use, I pursue value that endures over time.* <br />
+*I prioritize accountability over speed, and long-term clarity over short-term wins.* <br />
 *My focus is on creating experiences that feel intuitive, reliable, and built to last.* <br />
 
 ## Projects
