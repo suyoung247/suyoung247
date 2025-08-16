@@ -39,3 +39,8 @@
 ![Three.js](https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+## 🛠 Languages I Use Most
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyoung247&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
